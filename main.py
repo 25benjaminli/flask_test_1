@@ -11,4 +11,8 @@ def main():
 def testing():
   if request.method == "POST":
     thing = request.form["input"]
-    return render_template("test.html", thing = thing)
+    return render_template("index.html", thing = thing)
+
+
+if (__name__ == "__main__"):
+  app.run(debug=True)
