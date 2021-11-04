@@ -1,1 +1,1 @@
-run = "python hello.py"
+run = "python app.py"
