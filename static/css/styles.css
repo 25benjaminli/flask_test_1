@@ -1,0 +1,21 @@
+body{
+  font-family: sans-serif;
+  margin: 0;
+}
+
+table{
+  border-collapse: collapse;
+}
+
+td{
+  border-left: solid 1px red;
+  border-right: solid 1px red;
+  border-top: solid 1px red;
+  border-bottom: solid 1px red;
+}
+th{
+  border-left: solid 1px red;
+  border-right: solid 1px red;
+  border-top: solid 1px red;
+  border-bottom: solid 1px red;
+}
